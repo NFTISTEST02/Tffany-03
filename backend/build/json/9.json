@@ -1,0 +1,32 @@
+{
+  "name": "Tiffany test 03 #9",
+  "description": "TIFFANY TATUM 1st NFT collection",
+  "image": "https://ipfs.io/ipfs/bafybeicpdgc3ovp2p7kqufhqj3nudv4jj4szsq3x4vsvgkb4y3kpb4d44m",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "no_oscar"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "lightgreen"
+    },
+    {
+      "trait_type": "Tiffany Tatum",
+      "value": "yes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "bikini pink"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "green"
+    }
+  ],
+  "dna": "66e21c3461aceb50e0095e24379193ccf1124744",
+  "edition": 9,
+  "external_url": "https://tiffanynft.com",
+  "date": 1660715635879,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

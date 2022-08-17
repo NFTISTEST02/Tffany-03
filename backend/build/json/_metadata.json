@@ -1,0 +1,322 @@
+[
+  {
+    "name": "Tiffany test 03 #0",
+    "description": "TIFFANY TATUM 1st NFT collection",
+    "image": "https://ipfs.io/ipfs/bafybeiabssx75k5mnttmu3hkmzmbkx2o354yweilrnzdoquenfahpjzoua",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "all_oscar"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "lightgreen"
+      },
+      {
+        "trait_type": "Tiffany Tatum",
+        "value": "yes"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "bikini pink"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "blue"
+      }
+    ],
+    "dna": "856259cc97969ea8b7571e845014b6aa99125498",
+    "edition": 0,
+    "external_url": "https://tiffanynft.com",
+    "date": 1660715639940,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  {
+    "name": "Tiffany test 03 #1",
+    "description": "TIFFANY TATUM 1st NFT collection",
+    "image": "https://ipfs.io/ipfs/bafybeie4ytt4s2o6vbxqx32m6h54yhwqkdq5xpfiostyuxy6bhbbfaenxy",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "all_oscar"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "lightgreen"
+      },
+      {
+        "trait_type": "Tiffany Tatum",
+        "value": "yes"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "body blue"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "green"
+      }
+    ],
+    "dna": "f83294dee183395cf480e731de267cad46e77641",
+    "edition": 1,
+    "external_url": "https://tiffanynft.com",
+    "date": 1660715627505,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  {
+    "name": "Tiffany test 03 #2",
+    "description": "TIFFANY TATUM 1st NFT collection",
+    "image": "https://ipfs.io/ipfs/bafybeidj6vohbhsogsyzscqhvq3lqlziexgm7hliiatpp2bwb7jeizlm64",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "no_oscar"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "lightgreen"
+      },
+      {
+        "trait_type": "Tiffany Tatum",
+        "value": "yes"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "bikini pink"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "blue"
+      }
+    ],
+    "dna": "cff1b7a69011c9c1af819cb623014527c5178b40",
+    "edition": 2,
+    "external_url": "https://tiffanynft.com",
+    "date": 1660715642024,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  {
+    "name": "Tiffany test 03 #3",
+    "description": "TIFFANY TATUM 1st NFT collection",
+    "image": "https://ipfs.io/ipfs/bafybeidzurvcwgf7akepxifdo24y67o6zzcmpjsfkl4iwvornbsmy5yzsi",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "all_oscar"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "lightgreen"
+      },
+      {
+        "trait_type": "Tiffany Tatum",
+        "value": "yes"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "bikini pink"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "green"
+      }
+    ],
+    "dna": "7563e06fa274b61ae714c35bad9fdaf57c03e160",
+    "edition": 3,
+    "external_url": "https://tiffanynft.com",
+    "date": 1660715631690,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  {
+    "name": "Tiffany test 03 #4",
+    "description": "TIFFANY TATUM 1st NFT collection",
+    "image": "https://ipfs.io/ipfs/bafybeifvoqwdqres4hzeybqb52h26sgbrydqrycs6xeclqr2tcbbfmxjku",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "all_oscar"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "no wings"
+      },
+      {
+        "trait_type": "Tiffany Tatum",
+        "value": "yes"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "body blue"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "blue"
+      }
+    ],
+    "dna": "e187ca902cede816fe26e81f140d38659acc35b6",
+    "edition": 4,
+    "external_url": "https://tiffanynft.com",
+    "date": 1660715633723,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  {
+    "name": "Tiffany test 03 #5",
+    "description": "TIFFANY TATUM 1st NFT collection",
+    "image": "https://ipfs.io/ipfs/bafybeiceywzuseyvhlhyvxqpp4onroohfvfaz57ij2u3u7dua23ftslmhi",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "no_oscar"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "no wings"
+      },
+      {
+        "trait_type": "Tiffany Tatum",
+        "value": "yes"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "body blue"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "green"
+      }
+    ],
+    "dna": "540f6ddc980285768f29b097dbfca1cd11e116cc",
+    "edition": 5,
+    "external_url": "https://tiffanynft.com",
+    "date": 1660715625398,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  {
+    "name": "Tiffany test 03 #6",
+    "description": "TIFFANY TATUM 1st NFT collection",
+    "image": "https://ipfs.io/ipfs/bafybeidkddwwhzeorh7yeg5atig3dpswjl2a6lqwamximcqp7ctknv27ii",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "all_oscar"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "no wings"
+      },
+      {
+        "trait_type": "Tiffany Tatum",
+        "value": "yes"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "bikini pink"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "green"
+      }
+    ],
+    "dna": "f2a5ee3c67b9827451fa3b8c050c6acc05d58aaa",
+    "edition": 6,
+    "external_url": "https://tiffanynft.com",
+    "date": 1660715644028,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  {
+    "name": "Tiffany test 03 #8",
+    "description": "TIFFANY TATUM 1st NFT collection",
+    "image": "https://ipfs.io/ipfs/bafybeids4gps7jue6qyevajiod77tjs3hkiejbwkiffpbhtkixv7ybwkwy",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "no_oscar"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "no wings"
+      },
+      {
+        "trait_type": "Tiffany Tatum",
+        "value": "yes"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "bikini pink"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "blue"
+      }
+    ],
+    "dna": "ce24c2f52ea555cd7d411d1ad32922187d9f1e52",
+    "edition": 8,
+    "external_url": "https://tiffanynft.com",
+    "date": 1660715629642,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  {
+    "name": "Tiffany test 03 #9",
+    "description": "TIFFANY TATUM 1st NFT collection",
+    "image": "https://ipfs.io/ipfs/bafybeicpdgc3ovp2p7kqufhqj3nudv4jj4szsq3x4vsvgkb4y3kpb4d44m",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "no_oscar"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "lightgreen"
+      },
+      {
+        "trait_type": "Tiffany Tatum",
+        "value": "yes"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "bikini pink"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "green"
+      }
+    ],
+    "dna": "66e21c3461aceb50e0095e24379193ccf1124744",
+    "edition": 9,
+    "external_url": "https://tiffanynft.com",
+    "date": 1660715635879,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  {
+    "name": "Tiffany test 03 #10",
+    "description": "TIFFANY TATUM 1st NFT collection",
+    "image": "https://ipfs.io/ipfs/bafybeihtr33npm2cdhek7ke4lp2trfcqimesfozjmc6w7zwxo4gvwlfrda",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "no_oscar"
+      },
+      {
+        "trait_type": "Wings",
+        "value": "no wings"
+      },
+      {
+        "trait_type": "Tiffany Tatum",
+        "value": "yes"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "bikini pink"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "green"
+      }
+    ],
+    "dna": "20eaa70c7ab05843478e02a8b3f697b8c5137fcc",
+    "edition": 10,
+    "external_url": "https://tiffanynft.com",
+    "date": 1660715637894,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  }
+]
